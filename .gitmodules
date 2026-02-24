@@ -1,0 +1,6 @@
+[submodule "c"]
+    path = c
+    url = git@github.com:qingshishiyi/c.git
+[submodule "practice"]
+    path = practice
+    url = git@github.com:qingshishiyi/practice.git
